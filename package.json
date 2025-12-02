@@ -1,0 +1,17 @@
+{
+  "name": "Itachicrush",
+  "version": "1.0.0",
+  "description": "WhatsApp Bot with Number Login by MRVIRUSX",
+  "main": "index.js",
+  "type": "commonjs",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "@whiskeysockets/baileys": "^6.6.0",
+    "chalk": "^5.3.0",
+    "pino": "^8.15.0",
+    "qrcode-terminal": "^0.12.0",
+    "fs-extra": "^11.2.0"
+  }
+}
